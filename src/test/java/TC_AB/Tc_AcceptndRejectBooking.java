@@ -76,7 +76,8 @@ public class Tc_AcceptndRejectBooking extends BaseClassAB{
 			      
 			        WebElement reject = driver.findElement(By.xpath(".//button[normalize-space()='Reject']"));
 			        reject.click();
-			        break; 
+			        break;
+			        
 			    }
 			}
 		
