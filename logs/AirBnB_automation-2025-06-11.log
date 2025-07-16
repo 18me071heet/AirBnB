@@ -1,0 +1,74 @@
+17:11:44.969 [main] INFO  TC_AB.Tc_DDTAB - Starting login test with email: user7@yopmail.com
+17:11:55.272 [main] INFO  TC_AB.Tc_DDTAB - Starting login test with email: user11@yopmail.com
+17:11:55.393 [main] INFO  TC_AB.Tc_DDTAB - Starting login test with email: user23@yopmail.com
+17:13:32.750 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\DataDriven.xml
+
+17:13:39.354 [main] INFO  TC_AB.Tc_DDAB - Starting login test with email: user7@yopmail.com
+17:13:59.461 [main] INFO  TC_AB.Tc_DDAB - Starting login test with email: user11@yopmail.com
+17:13:59.483 [main] INFO  TC_AB.Tc_DDAB - Starting login test with email: user23@yopmail.com
+17:14:05.468 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\DataDriven.xml
+
+17:14:11.576 [main] INFO  TC_AB.Tc_DDAB - Starting login test with email: user7@yopmail.com
+17:14:30.243 [main] INFO  TC_AB.Tc_DDAB - Starting login test with email: user11@yopmail.com
+17:14:40.324 [main] INFO  TC_AB.Tc_DDAB - Starting login test with email: user23@yopmail.com
+17:16:28.167 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\DataDriven.xml
+
+17:16:35.898 [main] INFO  TC_AB.Tc_DDAB - Starting login test with email: user7@yopmail.com
+17:16:55.191 [main] INFO  TC_AB.Tc_DDAB - Starting login test with email: user11@yopmail.com
+17:17:14.274 [main] INFO  TC_AB.Tc_DDAB - Starting login test with email: user23@yopmail.com
+17:17:28.746 [main] INFO  TC_AB.Tc_DDAB - Valid login: Contact Us is visible
+17:21:49.852 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\DataDriven.xml
+
+17:21:57.474 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:22:16.398 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:22:26.702 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:23:13.793 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\DataDriven.xml
+
+17:23:20.479 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:23:30.799 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:23:30.880 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:23:37.713 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\DataDriven.xml
+
+17:23:44.207 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:24:06.701 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:24:29.815 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:25:24.923 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\DataDriven.xml
+
+17:25:32.310 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:25:42.605 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:25:42.717 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:25:43.055 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\DataDriven.xml
+
+17:25:49.576 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:26:13.637 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:26:37.024 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:28:19.458 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\DataDriven.xml
+
+17:28:26.322 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:28:50.772 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:29:14.223 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:29:45.724 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\DataDriven.xml
+
+17:29:51.880 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:30:02.367 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:30:02.459 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:30:20.233 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\DataDriven.xml
+
+17:30:23.630 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:30:50.054 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:31:13.648 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials
+17:32:23.546 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\DataDriven.xml
+
+17:32:29.995 [main] INFO  TC_AB.TC_DDT - Tc-001 login by valid credentials

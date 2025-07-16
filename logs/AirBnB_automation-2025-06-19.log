@@ -1,0 +1,59 @@
+16:34:29.077 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:34:29.085 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:34:29.085 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:34:29.085 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:34:29.086 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:34:29.087 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:34:29.088 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:34:29.088 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:34:29.088 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:34:29.088 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:34:29.099 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\AppData\Local\Temp\testng-eclipse-1866217169\testng-customsuite.xml
+
+16:34:29.123 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+16:34:29.338 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1c9f0a20: 88 ms
+16:34:29.360 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2a3591c5: 22 ms
+16:34:29.374 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5b58ed3c: 14 ms
+16:34:29.390 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@eb6449b: 15 ms
+16:34:29.402 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@319988b0: 12 ms
+16:34:29.402 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@d5ae57e: 0 ms
+16:34:39.271 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+16:34:41.959 [main] INFO  TC_AB.Tc_sendMessage - Tc-01 --> Verify user is able to enter email 
+16:34:44.610 [main] INFO  TC_AB.Tc_sendMessage - Tc-02 --> Verify user is able to enter password 
+16:34:46.753 [main] INFO  TC_AB.Tc_sendMessage - Tc-03 --> Verify user is able to login by clicking login button
+16:35:23.443 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+16:35:28.771 [main] INFO  TC_AB.Tc_sendMessage - Tc-01 --> Verify user is able to enter email 
+16:35:30.962 [main] INFO  TC_AB.Tc_sendMessage - Tc-02 --> Verify user is able to enter password 
+16:35:33.061 [main] INFO  TC_AB.Tc_sendMessage - Tc-03 --> Verify user is able to login by clicking login button
+16:37:20.792 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+16:37:27.487 [main] INFO  TC_AB.Tc_sendMessage - Tc-01 --> Verify user is able to enter email 
+16:37:29.624 [main] INFO  TC_AB.Tc_sendMessage - Tc-02 --> Verify user is able to enter password 
+16:37:31.728 [main] INFO  TC_AB.Tc_sendMessage - Tc-03 --> Verify user is able to login by clicking login button
+16:40:49.610 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+16:40:55.226 [main] INFO  TC_AB.Tc_sendMessage - Tc-01 --> Verify user is able to enter email 
+16:40:57.403 [main] INFO  TC_AB.Tc_sendMessage - Tc-02 --> Verify user is able to enter password 
+16:40:59.535 [main] INFO  TC_AB.Tc_sendMessage - Tc-03 --> Verify user is able to login by clicking login button
+16:42:51.836 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+16:42:57.812 [main] INFO  TC_AB.Tc_sendMessage - Tc-01 --> Verify user is able to enter email 
+16:42:59.938 [main] INFO  TC_AB.Tc_sendMessage - Tc-02 --> Verify user is able to enter password 
+16:43:02.027 [main] INFO  TC_AB.Tc_sendMessage - Tc-03 --> Verify user is able to login by clicking login button
+16:43:29.011 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+16:43:34.445 [main] INFO  TC_AB.Tc_sendMessage - Tc-01 --> Verify user is able to enter email 
+16:43:36.621 [main] INFO  TC_AB.Tc_sendMessage - Tc-02 --> Verify user is able to enter password 
+16:43:38.740 [main] INFO  TC_AB.Tc_sendMessage - Tc-03 --> Verify user is able to login by clicking login button
+16:47:33.114 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+

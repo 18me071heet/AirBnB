@@ -1,0 +1,73 @@
+17:32:27.750 [main] INFO  withoutPageFactory.Tc_AcceptBooking - Tc-03 Log In Navigation and Added Login Fields   
+17:36:53.085 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+17:36:59.761 [main] INFO  withoutPageFactory.Tc_AcceptBooking - Tc-03 Log In Navigation and Added Login Fields   
+17:37:39.939 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+17:37:45.547 [main] INFO  withoutPageFactory.Tc_AcceptBooking - Tc-03 Log In Navigation and Added Login Fields   
+16:45:26.285 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+16:46:25.037 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+16:49:08.019 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+16:50:30.173 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+16:53:01.056 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+16:53:10.501 [main] INFO  withoutPageFactory.Tc_AcceptBooking - Tc-03 Log In Navigation and Added Login Fields   
+16:56:32.598 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+16:57:19.335 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+16:57:25.313 [main] INFO  TC_AB.Tc_UserBooking - Tc-01 --> Verify side header is open or not by clicking profile icon
+17:00:51.831 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+17:00:57.694 [main] INFO  TC_AB.Tc_UserBooking - Tc-01 --> Verify user is able to enter email 
+17:00:59.896 [main] INFO  TC_AB.Tc_UserBooking - Tc-02 --> Verify user is able to enter password 
+17:01:02.020 [main] INFO  TC_AB.Tc_UserBooking - Tc-03 --> Verify user is able to login by clicking login button
+17:01:10.150 [main] INFO  TC_AB.Tc_UserBooking - Tc-04 --> Verify side header is open or not by clicking profile icon
+17:02:48.438 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+17:02:54.257 [main] INFO  TC_AB.Tc_UserBooking - Tc-01 --> Verify user is able to enter email 
+17:02:56.470 [main] INFO  TC_AB.Tc_UserBooking - Tc-02 --> Verify user is able to enter password 
+17:02:58.649 [main] INFO  TC_AB.Tc_UserBooking - Tc-03 --> Verify user is able to login by clicking login button
+17:03:06.773 [main] INFO  TC_AB.Tc_UserBooking - Tc-04 --> Verify side header is open or not by clicking profile icon
+17:11:20.156 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+17:11:23.595 [main] INFO  withoutPageFactory.Tc_UserCancelBooking - Tc-03 Log In Navigation and Added Login Fields   
+17:13:27.377 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+17:13:32.767 [main] INFO  TC_AB.Tc_Booking - Tc-01 --> Verify user is switch to host or not by clicking switch to host 
+17:14:29.464 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+17:14:35.295 [main] INFO  TC_AB.Tc_Booking - Tc-01 --> Verify user is able to enter email 
+17:14:37.549 [main] INFO  TC_AB.Tc_Booking - Tc-02 --> Verify user is able to enter password 
+17:14:39.770 [main] INFO  TC_AB.Tc_Booking - Tc-03 --> Verify user is able to login by clicking login button
+17:14:47.921 [main] INFO  TC_AB.Tc_Booking - Tc-01 --> Verify user is switch to host or not by clicking switch to host 
+17:16:04.619 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+17:16:10.162 [main] INFO  withoutPageFactory.Tc_AcceptBooking - Tc-03 Log In Navigation and Added Login Fields   
+17:30:40.461 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+17:30:46.739 [main] INFO  withoutPageFactory.Tc_AcceptBooking - Tc-03 Log In Navigation and Added Login Fields   
+17:32:31.625 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+17:32:37.631 [main] INFO  withoutPageFactory.Tc_AcceptBooking - Tc-03 Log In Navigation and Added Login Fields   

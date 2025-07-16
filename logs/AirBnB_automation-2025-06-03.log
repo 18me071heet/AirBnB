@@ -1,0 +1,58 @@
+15:32:30.377 [main] INFO  withoutPageFactory.Tc_AB - Tc-07 Load More Bands by clicking  " Show More " after filtering.
+15:32:33.412 [main] INFO  withoutPageFactory.Tc_AB - Tc-08 Switch to Host ..
+15:32:36.894 [main] INFO  withoutPageFactory.Tc_AB - Tc-10 Navigation to Entertainer > Booking Screen
+15:32:42.153 [main] INFO  withoutPageFactory.Tc_AB - Tc-12 --> Reject the specific Booking 
+15:32:44.296 [main] INFO  withoutPageFactory.Tc_AB - Tc-13 --> Navigate to Home Page 
+15:32:46.639 [main] INFO  withoutPageFactory.Tc_AB - Tc-14 --> Band Genre Category Navigation. 
+15:32:48.936 [main] INFO  withoutPageFactory.Tc_AB - Tc-15 --> Navigate to My Profile page .
+15:32:56.139 [main] INFO  withoutPageFactory.Tc_AB - Tc-16 -> Edit the First Name and Save..
+15:33:02.564 [main] INFO  withoutPageFactory.Tc_AB - Tc-17 -> Select Specific Entertainment type , Event Type , Event Location , Descending filter ( Custom Dropdown )
+15:33:19.415 [main] INFO  withoutPageFactory.Tc_AB - Tc-18 -> Create the Band
+15:33:38.424 [main] INFO  withoutPageFactory.Tc_AB - Tc-20 ->Bookings Navigation
+15:33:44.653 [main] INFO  withoutPageFactory.Tc_AB - Tc-21 -> Filter the Booking
+15:33:59.861 [main] INFO  withoutPageFactory.Tc_AB - Tc-22 -> Navigate to Listed Band
+15:34:07.258 [main] INFO  withoutPageFactory.Tc_AB - Tc-23 -> Change the Band Details
+15:34:41.470 [main] INFO  withoutPageFactory.Tc_AB - Tc-24 -> Terms and Condition Navigation
+15:34:48.689 [main] INFO  withoutPageFactory.Tc_AB - Tc-25 -> Privacy policy Navigation
+15:34:55.876 [main] INFO  withoutPageFactory.Tc_AB - Tc-26 -> Contact Us Navigation
+15:35:07.067 [main] INFO  withoutPageFactory.Tc_AB - Tc-28 -> Log Out
+15:35:10.277 [main] INFO  withoutPageFactory.Tc_AB - Tc-29 -> Forgot Password
+15:35:20.611 [main] INFO  withoutPageFactory.Tc_AB - Tc-30 Open in Incognito mode 
+15:42:01.959 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+15:42:07.919 [main] INFO  withoutPageFactory.Tc_AB - Tc-03 Log In Navigation and Added Login Fields   
+15:42:30.390 [main] INFO  withoutPageFactory.Tc_AB - Tc-12 --> Reject the specific Booking 
+15:42:42.472 [main] INFO  withoutPageFactory.Tc_AB - Tc-13 --> Navigate to Home Page 
+15:42:44.595 [main] INFO  withoutPageFactory.Tc_AB - Tc-14 --> Band Genre Category Navigation. 
+15:42:46.810 [main] INFO  withoutPageFactory.Tc_AB - Tc-15 --> Navigate to My Profile page .
+15:42:54.276 [main] INFO  withoutPageFactory.Tc_AB - Tc-16 -> Edit the First Name and Save..
+15:43:00.646 [main] INFO  withoutPageFactory.Tc_AB - Tc-17 -> Select Specific Entertainment type , Event Type , Event Location , Descending filter ( Custom Dropdown )
+15:43:17.311 [main] INFO  withoutPageFactory.Tc_AB - Tc-18 -> Create the Band
+15:43:36.192 [main] INFO  withoutPageFactory.Tc_AB - Tc-20 ->Bookings Navigation
+15:43:42.395 [main] INFO  withoutPageFactory.Tc_AB - Tc-21 -> Filter the Booking
+15:43:48.207 [main] INFO  withoutPageFactory.Tc_AB - Tc-22 -> Navigate to Listed Band
+15:43:55.530 [main] INFO  withoutPageFactory.Tc_AB - Tc-23 -> Change the Band Details
+15:44:29.712 [main] INFO  withoutPageFactory.Tc_AB - Tc-24 -> Terms and Condition Navigation
+15:44:36.947 [main] INFO  withoutPageFactory.Tc_AB - Tc-25 -> Privacy policy Navigation
+15:44:44.115 [main] INFO  withoutPageFactory.Tc_AB - Tc-26 -> Contact Us Navigation
+15:44:55.291 [main] INFO  withoutPageFactory.Tc_AB - Tc-28 -> Log Out
+15:44:58.454 [main] INFO  withoutPageFactory.Tc_AB - Tc-29 -> Forgot Password
+15:45:08.710 [main] INFO  withoutPageFactory.Tc_AB - Tc-30 Open in Incognito mode 
+18:01:15.564 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+18:01:24.107 [main] INFO  withoutPageFactory.Tc_AB - Tc-03 Log In Navigation and Added Login Fields   
+18:01:36.532 [main] INFO  withoutPageFactory.Tc_AB - Tc-06 Search Band based on the Price ( Min and Max ) Filter .
+18:01:49.269 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+18:01:56.796 [main] INFO  withoutPageFactory.Tc_AB - Tc-03 Log In Navigation and Added Login Fields   
+18:02:09.212 [main] INFO  withoutPageFactory.Tc_AB - Tc-06 Search Band based on the Price ( Min and Max ) Filter .
+18:02:20.229 [main] INFO  withoutPageFactory.Tc_AB - Tc-07 Load More Bands by clicking  " Show More " after filtering.
+18:02:22.888 [main] INFO  withoutPageFactory.Tc_AB - Tc-08 Switch to Host ..
+18:02:26.311 [main] INFO  withoutPageFactory.Tc_AB - Tc-10 Navigation to Entertainer > Booking Screen
+18:02:31.580 [main] INFO  withoutPageFactory.Tc_AB - Tc-12 --> Reject the specific Booking 
+18:02:33.687 [main] INFO  withoutPageFactory.Tc_AB - Tc-13 --> Navigate to Home Page 
+18:02:35.803 [main] INFO  withoutPageFactory.Tc_AB - Tc-14 --> Band Genre Category Navigation. 
+18:02:38.053 [main] INFO  withoutPageFactory.Tc_AB - Tc-15 --> Navigate to My Profile page .

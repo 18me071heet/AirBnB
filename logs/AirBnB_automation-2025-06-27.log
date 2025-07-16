@@ -1,0 +1,52 @@
+14:39:21.237 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:39:21.244 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:39:21.245 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:39:21.245 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:39:21.248 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:39:21.248 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:39:21.249 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:39:21.249 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:39:21.250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:39:21.250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:39:21.250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:39:21.250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:39:21.253 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+14:39:21.253 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:39:21.254 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:39:21.255 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:39:21.255 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:39:21.255 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:39:21.264 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\AppData\Local\Temp\testng-eclipse-1594485423\testng-customsuite.xml
+
+14:39:21.297 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+14:39:21.564 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1c9f0a20: 122 ms
+14:39:21.596 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2a3591c5: 32 ms
+14:39:21.614 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5b58ed3c: 18 ms
+14:39:21.630 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@eb6449b: 15 ms
+14:39:21.642 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@319988b0: 12 ms
+14:39:21.643 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@d5ae57e: 0 ms
+14:40:02.612 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+14:40:12.664 [main] INFO  TC_AB.Tc_SignUp_Validations - Tc-01 --> Verify user is able to enter first name 
+14:40:12.664 [main] INFO  TC_AB.Tc_SignUp_Validations - Tc-02 --> Verify user is able to enter last name 
+14:42:09.697 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+14:42:13.620 [main] INFO  TC_AB.Tc_SignUp_Validations - Tc-01 --> Verify user is able to enter first name 
+14:42:13.621 [main] INFO  TC_AB.Tc_SignUp_Validations - Tc-02 --> Verify user is able to enter last name 
+14:43:20.299 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+14:43:26.479 [main] INFO  TC_AB.Tc_SignUp_Validations - Tc-01 --> Verify user is navigate to the sign up screen 
+14:43:28.753 [main] INFO  TC_AB.Tc_SignUp_Validations - Tc-02 --> Verify user is able to enter last name 
+14:43:30.937 [main] INFO  TC_AB.Tc_SignUp_Validations - Tc-03 --> Verify user is able to enter email 
+14:43:33.085 [main] INFO  TC_AB.Tc_SignUp_Validations - Tc-04 --> Verify user is able to enter phone number 
+14:43:35.227 [main] INFO  TC_AB.Tc_SignUp_Validations - Tc-05 --> Verify user is able to enter password 
+14:43:37.348 [main] INFO  TC_AB.Tc_SignUp_Validations - Tc-06 --> Verify user is able to enter confirm password 
+14:43:41.634 [main] INFO  TC_AB.Tc_SignUp_Validations - Tc-07 --> Verify user is able to sign up by clicking sign up button
+14:45:25.544 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+14:45:32.724 [main] INFO  withoutPageFactory.Tc_MarkAsCompleted - Tc-03 Log In Navigation and Added Login Fields   

@@ -1,0 +1,9 @@
+16:33:53.944 [main] INFO  TC_AB.Tc_AddReview - Tc-03 --> Verify user is able to login by clicking login button
+16:34:06.092 [main] INFO  TC_AB.Tc_AddReview - Tc-04 --> Verify profile screen is displaying by clicking profile icon
+16:34:08.725 [main] INFO  TC_AB.Tc_AddReview - Tc-05 --> Verify booking screen is displaying by clicking bookings
+16:34:11.942 [main] INFO  TC_AB.Tc_AddReview - Tc-06 --> Verify filter is open by clicking filter icon
+16:34:15.022 [main] INFO  TC_AB.Tc_AddReview - Tc-07 --> Verify band records are displaying according to select filter
+16:34:22.433 [main] INFO  TC_AB.Tc_AddReview - Tc-08 --> Verify review popup is open by clicking Add Review 
+16:34:25.029 [main] INFO  TC_AB.Tc_AddReview - Tc-09 --> Verify user is able to select rating stars 
+16:34:35.101 [main] INFO  TC_AB.Tc_AddReview - Tc-10 --> Verify user is able to add reviews 
+16:34:57.681 [main] INFO  TC_AB.Tc_AddReview - Tc-11 --> Verify review is getting send or not by clicking submit 

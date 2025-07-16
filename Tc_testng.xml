@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+
+<listeners>
+
+<listener class-name="utlility_AB.ExtentReport_AB"></listener>
+
+</listeners>
+
+
+
+  <test thread-count="5" name="Test">
+   <parameter name="browser" value="chrome"/>
+   
+   <groups>
+   
+   <run>
+   
+   <include name="Smoke"></include>
+   <include name="Functional"></include>
+   
+   </run>
+   
+   </groups>
+   
+   
+    <classes>
+    
+    <!--  <class name="TC_AB.TC_DDT"/>-->
+        <!--  <class name="TC_AB.Tc_SignUp"/>-->
+      <!--   <class name="TC_AB.Tc_all"/>-->
+      <!--   <class name="TC_AB.Tc_DDAB"/>-->
+        <!--  <class name="TC_AB.Tc_Login"/>-->
+        <!--<class name="TC_AB.sendMessage">-->
+     <!-- <class name="TC_AB.Tc_SignUp_Validations"/>-->
+      <!--    <class name="TC_AB.Tc_UserBooking"/>-->
+    <!--  <class name="TC_AB.Tc_Login_Validations"/>-->
+     <!-- <class name="TC_AB.Tc_Notifications"/>-->
+    <!--  <class name="TC_AB.Tc_AddReview">-->
+      <class name="TC_AB.Tc_contactUs"></class>
+      
+    </classes>
+    
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

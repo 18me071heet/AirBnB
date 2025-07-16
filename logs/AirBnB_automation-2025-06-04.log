@@ -1,0 +1,54 @@
+18:02:45.478 [main] INFO  withoutPageFactory.Tc_AB - Tc-16 -> Edit the First Name and Save..
+18:02:51.904 [main] INFO  withoutPageFactory.Tc_AB - Tc-17 -> Select Specific Entertainment type , Event Type , Event Location , Descending filter ( Custom Dropdown )
+18:03:08.371 [main] INFO  withoutPageFactory.Tc_AB - Tc-18 -> Create the Band
+18:03:27.383 [main] INFO  withoutPageFactory.Tc_AB - Tc-20 ->Bookings Navigation
+18:03:33.597 [main] INFO  withoutPageFactory.Tc_AB - Tc-21 -> Filter the Booking
+18:05:30.784 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+18:05:37.304 [main] INFO  withoutPageFactory.Tc_AB - Tc-03 Log In Navigation and Added Login Fields   
+18:05:49.849 [main] INFO  withoutPageFactory.Tc_AB - Tc-06 Search Band based on the Price ( Min and Max ) Filter .
+18:05:54.138 [main] INFO  withoutPageFactory.Tc_AB - Tc-12 --> Reject the specific Booking 
+18:05:56.164 [main] INFO  withoutPageFactory.Tc_AB - Tc-13 --> Navigate to Home Page 
+18:05:58.185 [main] INFO  withoutPageFactory.Tc_AB - Tc-14 --> Band Genre Category Navigation. 
+18:06:00.211 [main] INFO  withoutPageFactory.Tc_AB - Tc-15 --> Navigate to My Profile page .
+18:06:02.235 [main] INFO  withoutPageFactory.Tc_AB - Tc-16 -> Edit the First Name and Save..
+18:06:02.248 [main] INFO  withoutPageFactory.Tc_AB - Tc-17 -> Select Specific Entertainment type , Event Type , Event Location , Descending filter ( Custom Dropdown )
+18:06:04.275 [main] INFO  withoutPageFactory.Tc_AB - Tc-18 -> Create the Band
+18:06:07.291 [main] INFO  withoutPageFactory.Tc_AB - Tc-20 ->Bookings Navigation
+18:06:10.303 [main] INFO  withoutPageFactory.Tc_AB - Tc-21 -> Filter the Booking
+18:06:13.827 [main] INFO  withoutPageFactory.Tc_AB - Tc-22 -> Navigate to Listed Band
+18:06:16.849 [main] INFO  withoutPageFactory.Tc_AB - Tc-23 -> Change the Band Details
+18:06:25.320 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\testng.xml
+
+18:06:27.875 [main] INFO  withoutPageFactory.Tc_AB - Tc-24 -> Terms and Condition Navigation
+18:06:30.859 [main] INFO  withoutPageFactory.Tc_AB - Tc-03 Log In Navigation and Added Login Fields   
+18:06:30.900 [main] INFO  withoutPageFactory.Tc_AB - Tc-25 -> Privacy policy Navigation
+18:06:33.917 [main] INFO  withoutPageFactory.Tc_AB - Tc-26 -> Contact Us Navigation
+18:06:36.939 [main] INFO  withoutPageFactory.Tc_AB - Tc-30 Open in Incognito mode 
+18:06:43.309 [main] INFO  withoutPageFactory.Tc_AB - Tc-06 Search Band based on the Price ( Min and Max ) Filter .
+18:06:58.679 [main] INFO  withoutPageFactory.Tc_AB - Tc-07 Load More Bands by clicking  " Show More " after filtering.
+18:07:01.413 [main] INFO  withoutPageFactory.Tc_AB - Tc-08 Switch to Host ..
+18:07:05.997 [main] INFO  withoutPageFactory.Tc_AB - Tc-10 Navigation to Entertainer > Booking Screen
+18:07:11.334 [main] INFO  withoutPageFactory.Tc_AB - Tc-12 --> Reject the specific Booking 
+18:07:13.493 [main] INFO  withoutPageFactory.Tc_AB - Tc-13 --> Navigate to Home Page 
+18:07:15.635 [main] INFO  withoutPageFactory.Tc_AB - Tc-14 --> Band Genre Category Navigation. 
+18:07:17.902 [main] INFO  withoutPageFactory.Tc_AB - Tc-15 --> Navigate to My Profile page .
+18:07:25.124 [main] INFO  withoutPageFactory.Tc_AB - Tc-16 -> Edit the First Name and Save..
+18:07:31.550 [main] INFO  withoutPageFactory.Tc_AB - Tc-17 -> Select Specific Entertainment type , Event Type , Event Location , Descending filter ( Custom Dropdown )
+18:07:48.350 [main] INFO  withoutPageFactory.Tc_AB - Tc-18 -> Create the Band
+18:08:07.398 [main] INFO  withoutPageFactory.Tc_AB - Tc-20 ->Bookings Navigation
+18:08:13.637 [main] INFO  withoutPageFactory.Tc_AB - Tc-21 -> Filter the Booking
+18:08:27.263 [main] INFO  withoutPageFactory.Tc_AB - Tc-22 -> Navigate to Listed Band
+18:08:34.651 [main] INFO  withoutPageFactory.Tc_AB - Tc-23 -> Change the Band Details
+18:09:08.904 [main] INFO  withoutPageFactory.Tc_AB - Tc-24 -> Terms and Condition Navigation
+18:09:16.580 [main] INFO  withoutPageFactory.Tc_AB - Tc-25 -> Privacy policy Navigation
+18:09:23.824 [main] INFO  withoutPageFactory.Tc_AB - Tc-26 -> Contact Us Navigation
+18:09:40.079 [main] INFO  withoutPageFactory.Tc_AB - Tc-30 Open in Incognito mode 
+17:20:41.508 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:20:41.515 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+17:20:41.517 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:20:41.517 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:20:41.517 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:20:41.517 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.

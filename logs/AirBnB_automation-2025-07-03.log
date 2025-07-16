@@ -1,0 +1,53 @@
+16:16:28.553 [main] INFO  TC_AB.Tc_AddReview - Tc-04 --> Verify profile screen is displaying by clicking profile icon
+16:16:32.200 [main] INFO  TC_AB.Tc_AddReview - Tc-05 --> Verify booking screen is displaying by clicking bookings
+16:16:35.298 [main] INFO  TC_AB.Tc_AddReview - Tc-06 --> Verify filter is open by clicking filter icon
+16:16:42.039 [main] INFO  TC_AB.Tc_AddReview - Tc-07 --> Verify band records are displaying according to select filter
+16:16:49.851 [main] INFO  TC_AB.Tc_AddReview - Tc-08 --> Verify review popup is open by clicking Add Review 
+16:16:50.750 [main] INFO  TC_AB.Tc_AddReview - Tc-10 --> Verify user is able to add reviews 
+16:16:52.760 [main] INFO  TC_AB.Tc_AddReview - Tc-11 --> Verify review is getting send or not by clicking submit 
+16:19:54.588 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+16:20:00.166 [main] INFO  TC_AB.Tc_AddReview - Tc-01 --> Verify user is able to enter email 
+16:20:02.349 [main] INFO  TC_AB.Tc_AddReview - Tc-02 --> Verify user is able to enter password 
+16:20:04.471 [main] INFO  TC_AB.Tc_AddReview - Tc-03 --> Verify user is able to login by clicking login button
+16:20:16.589 [main] INFO  TC_AB.Tc_AddReview - Tc-04 --> Verify profile screen is displaying by clicking profile icon
+16:20:19.205 [main] INFO  TC_AB.Tc_AddReview - Tc-05 --> Verify booking screen is displaying by clicking bookings
+16:20:22.585 [main] INFO  TC_AB.Tc_AddReview - Tc-06 --> Verify filter is open by clicking filter icon
+16:20:25.699 [main] INFO  TC_AB.Tc_AddReview - Tc-07 --> Verify band records are displaying according to select filter
+16:20:33.374 [main] INFO  TC_AB.Tc_AddReview - Tc-08 --> Verify review popup is open by clicking Add Review 
+16:20:33.994 [main] INFO  TC_AB.Tc_AddReview - Tc-10 --> Verify user is able to add reviews 
+16:21:07.732 [main] INFO  TC_AB.Tc_AddReview - Tc-11 --> Verify review is getting send or not by clicking submit 
+16:23:47.775 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+16:23:54.161 [main] INFO  TC_AB.Tc_AddReview - Tc-01 --> Verify user is able to enter email 
+16:23:56.353 [main] INFO  TC_AB.Tc_AddReview - Tc-02 --> Verify user is able to enter password 
+16:23:58.466 [main] INFO  TC_AB.Tc_AddReview - Tc-03 --> Verify user is able to login by clicking login button
+16:24:10.568 [main] INFO  TC_AB.Tc_AddReview - Tc-04 --> Verify profile screen is displaying by clicking profile icon
+16:24:13.068 [main] INFO  TC_AB.Tc_AddReview - Tc-05 --> Verify booking screen is displaying by clicking bookings
+16:24:16.268 [main] INFO  TC_AB.Tc_AddReview - Tc-06 --> Verify filter is open by clicking filter icon
+16:24:19.351 [main] INFO  TC_AB.Tc_AddReview - Tc-07 --> Verify band records are displaying according to select filter
+16:24:26.525 [main] INFO  TC_AB.Tc_AddReview - Tc-08 --> Verify review popup is open by clicking Add Review 
+16:24:27.074 [main] INFO  TC_AB.Tc_AddReview - Tc-09 --> Verify user is able to select rating stars 
+16:24:37.085 [main] INFO  TC_AB.Tc_AddReview - Tc-10 --> Verify user is able to add reviews 
+16:25:00.306 [main] INFO  TC_AB.Tc_AddReview - Tc-11 --> Verify review is getting send or not by clicking submit 
+16:27:32.517 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+16:27:38.942 [main] INFO  TC_AB.Tc_AddReview - Tc-01 --> Verify user is able to enter email 
+16:27:41.130 [main] INFO  TC_AB.Tc_AddReview - Tc-02 --> Verify user is able to enter password 
+16:27:43.233 [main] INFO  TC_AB.Tc_AddReview - Tc-03 --> Verify user is able to login by clicking login button
+16:27:55.362 [main] INFO  TC_AB.Tc_AddReview - Tc-04 --> Verify profile screen is displaying by clicking profile icon
+16:27:57.451 [main] INFO  TC_AB.Tc_AddReview - Tc-05 --> Verify booking screen is displaying by clicking bookings
+16:28:00.576 [main] INFO  TC_AB.Tc_AddReview - Tc-06 --> Verify filter is open by clicking filter icon
+16:28:03.684 [main] INFO  TC_AB.Tc_AddReview - Tc-07 --> Verify band records are displaying according to select filter
+16:28:11.014 [main] INFO  TC_AB.Tc_AddReview - Tc-08 --> Verify review popup is open by clicking Add Review 
+16:28:13.596 [main] INFO  TC_AB.Tc_AddReview - Tc-09 --> Verify user is able to select rating stars 
+16:28:23.625 [main] INFO  TC_AB.Tc_AddReview - Tc-10 --> Verify user is able to add reviews 
+16:28:47.328 [main] INFO  TC_AB.Tc_AddReview - Tc-11 --> Verify review is getting send or not by clicking submit 
+16:33:42.913 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INX\OneDrive\Documents\My Automation Learning\AbAutomation\Tc_testng.xml
+
+16:33:49.635 [main] INFO  TC_AB.Tc_AddReview - Tc-01 --> Verify user is able to enter email 
+16:33:51.797 [main] INFO  TC_AB.Tc_AddReview - Tc-02 --> Verify user is able to enter password 
