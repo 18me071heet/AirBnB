@@ -38,6 +38,7 @@ public class InterfaceDemo2 {
 		v.fuel();
 		v.service();                                  // Call default method
 		
+		
 		Vehicle.type();                              // Call static method by ClassName.method name
 		
 		

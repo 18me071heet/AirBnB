@@ -24,6 +24,7 @@ public class StaticMethodDemo {
 		m2();
 		
 	}
+	
 	public static void main(String[] args) {
 		
 		System.out.println(a);    // We can achieve static variable directly .

@@ -8,7 +8,7 @@ class Bird{
 	void a()
 	{
 		
-		System.out.println("Bird " + behaviour);
+		System.out.println("Bird: " + behaviour);
 		
 	}
 }
@@ -20,7 +20,7 @@ class Sparrow extends Bird{
 	
 	void a() {
 		
-		System.out.println("Sparrow " + behaviour);
+		System.out.println("Sparrow: " + behaviour);
 		super.a();
 	
 	}
@@ -33,8 +33,7 @@ class Eagle extends Sparrow{
 	
 	void a() {
 		
-		System.out.println("Eagle " +behaviour);
-		
+		System.out.println("Eagle: " +behaviour);
 		super.a();
 	}
 }
@@ -44,9 +43,11 @@ public class SuperKeywordMultiLevel {
 
 	public static void main(String[] args) {
 		
-		Eagle eagle = new Eagle();
-		
+		Eagle eagle = new Eagle();              // Call their parents method and their method 
 		eagle.a();
+		
+		Sparrow sparrow = new Sparrow();        // Call their parent method and their method 
+	    sparrow.a();
 	}
 
 }

@@ -1,7 +1,7 @@
 package javaLearning;
 
 
-   class School{
+   class School {
 	
 	int rollNo() {
 		

@@ -66,7 +66,7 @@ public class InheritanceDemo {
 		C demo3 = new C();
 		
 		
-	//	System.out.println(demo3.x);
+		System.out.println(demo3.x);
 		System.out.println(demo3.y);
 		System.out.println(demo3.z);
 		

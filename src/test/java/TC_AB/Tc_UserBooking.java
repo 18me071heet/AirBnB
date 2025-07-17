@@ -32,9 +32,7 @@ public class Tc_UserBooking extends BaseClassAB{
 		logger.info("Tc-03 --> Verify user is able to login by clicking login button");
 		Thread.sleep(8000);
 		login.loginClick();
-		
-		
-		
+			
 		UserBooking ub = new UserBooking(driver);
 		logger.info("Tc-04 --> Verify side header is open or not by clicking profile icon");
 	
@@ -59,6 +57,8 @@ public class Tc_UserBooking extends BaseClassAB{
 		ub.submitFilter();
 		
 	    logger.info("Tc-09 --> Verify Cancel button is displaying in the Confirmation pending status ");
+	    
+	    logger.info("Tc-10 --> Verify booking is getting cancel by clickking on the Cancel button");
 		
 		List<WebElement> inProgressStatus = driver.findElements(By.xpath("//div[contains(@class, 'text-gray-500') and contains(text(), 'Confirmation Pending')]"));
 		

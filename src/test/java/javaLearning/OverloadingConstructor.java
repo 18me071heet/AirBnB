@@ -4,7 +4,7 @@ public class OverloadingConstructor {
 
 	int a,b,c;
 	
-	OverloadingConstructor(){
+	OverloadingConstructor() {
 		
 		a=b=c=5;
 		

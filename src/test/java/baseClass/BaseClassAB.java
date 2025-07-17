@@ -76,6 +76,7 @@ public String randomString() {
 		
   }
     
+    
   //  @BeforeClass
   //  @Parameters({"browser"})
     void SignUp(String br) throws IOException {
@@ -100,6 +101,7 @@ public String randomString() {
 		driver.get("appUrlSignUp");
     }
     
+    
   //  @AfterClass
     public void teardown() {
         if (driver != null) {
@@ -107,10 +109,6 @@ public String randomString() {
         }
     }
 
-	
-	
-	
-	
 	
 	  public String captureScreen(String testName) {
 		  

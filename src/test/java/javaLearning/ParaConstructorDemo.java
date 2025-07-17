@@ -15,6 +15,7 @@ public class ParaConstructorDemo {
 	void displayData() {
 		
 		System.out.println("Name : "+ name +", Age : "+ age);
+		
 	}
 	
 	

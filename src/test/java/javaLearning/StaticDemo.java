@@ -22,6 +22,8 @@ public class StaticDemo {
 
 		Triangle.a1(45);    // Call the child static method by Child class name.it's Method name
 		
+		Shape.a1(10);   // Call the parent static method by Parent class name.it's Method name .
+		
 	}
 
 }
