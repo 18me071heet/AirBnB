@@ -29,6 +29,7 @@ public class Tc_Login_Validations extends BaseClassAB{
 		
 		driver.navigate().refresh();
 		
+		
 		Thread.sleep(2000);
 		
 		login.addEmail("user7@yopmail.com");
