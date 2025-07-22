@@ -19,6 +19,7 @@ class Girl extends Boy{
      	System.out.println(roll);     // It will call only child's method.
 		
 		super.m(11);              // It will call Invoke immediate parent class's method .
+		
 		super.age=11;            // It will Invoke immediate parent class's variable.
 	}
 

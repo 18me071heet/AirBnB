@@ -1,7 +1,7 @@
 package javaLearning;
 
 
-class Bird{
+class Bird {
 	
 	String behaviour = "Flying";
 	
@@ -16,7 +16,7 @@ class Bird{
 class Sparrow extends Bird{
 	
 	
-	String behaviour = "Flying";
+	String behaviour = "Eating ";
 	
 	void a() {
 		
