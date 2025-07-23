@@ -15,6 +15,7 @@ public class BreakinDoWhile {
 			}
 			
 			System.out.println(i);
+			i++;
 		
 		}while(i<=20);
 
