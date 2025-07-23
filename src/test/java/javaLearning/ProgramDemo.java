@@ -181,7 +181,6 @@ public class ProgramDemo {
 	       */
 		
 		
-		                                 // Prime Number 
 		
 	/*	int number=55 ;
 		
