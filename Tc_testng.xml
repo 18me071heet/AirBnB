@@ -39,6 +39,7 @@
     <!--  <class name="TC_AB.Tc_Login_Validations"/>-->
      <!-- <class name="TC_AB.Tc_Notifications"/>-->
     <!--  <class name="TC_AB.Tc_AddReview">-->
+    <class name="TC_AB.Tc_SearchingBand"></class>
       <class name="TC_AB.Tc_contactUs"></class>
       
     </classes>

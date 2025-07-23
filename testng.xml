@@ -31,6 +31,7 @@
   <!-- <class name="TC_AB.Tc_sendMessage"/>--> 
   <class name="TC_AB.Tc_SignUp_Validations"></class>
   <class name="TC_AB.Tc_Login_Validations"></class>
+  <class name="Tc_AB.Tc_SearchingBand "></class>
    
     </classes>
     
