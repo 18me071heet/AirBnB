@@ -126,8 +126,8 @@ public class ProgramDemo {
 			number=number/10;         // Remove the last digit so it can move to next digit 
 		}
 		
-		System.out.println("Count of Even Digit: "+even);
-		System.out.println("Count of Odd Digit:" + odd);
+		System.out.println("Count of Even Digit: " + even);
+		System.out.println("Count of Odd Digit:"  + odd);
 		
 	//	% 10 → Gets the last digit of the number.
 
@@ -218,7 +218,7 @@ public class ProgramDemo {
 		
 		                                   // Factorial 
 		
-		int number = 2;
+		int number = 5;
 		int factorial = 1;
 		
 		for(int i=1;i<=number;i++) {

@@ -37,21 +37,21 @@ public class DataConversionMethods {
 	    int a=10;
 	    double d=10.45;
 	    char c='N';
-	    boolean b1 = false;
+	    boolean b = false;
 	    
 	    String a1 = String.valueOf(a);
 	    
 	    System.out.println(a1);
 	    
-	    String d2 = String.valueOf(d);
+	    String d1 = String.valueOf(d);
 	    
-	    System.out.println(d2);
+	    System.out.println(d1);
 	    
-	    String c3 = String.valueOf(c);
+	    String c1 = String.valueOf(c);
 	    
-	    System.out.println(c3);
+	    System.out.println(c1);
 	    
-	    String b4 = String.valueOf(b1);
+	    String b1 = String.valueOf(b);
 	    
 	    System.out.println(b1);
 	    

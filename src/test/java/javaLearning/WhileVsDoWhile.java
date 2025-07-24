@@ -22,7 +22,7 @@ public class WhileVsDoWhile {
 		
 		
 		
-		// In Do while it will print the value first thats why it given output 10 and after that condition is checked
+		// In Do while it will print the value ( Statement ) first thats why it given output 10 and after that condition is checked
 		
 		int i=10;
 		do 

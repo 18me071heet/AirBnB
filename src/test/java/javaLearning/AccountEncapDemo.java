@@ -28,7 +28,8 @@ public class AccountEncapDemo {
 
 */
 	
-	
+
+	// Go to Source > Select Setter and Getter .
 	
 	public int getAccid() {
 		
@@ -61,9 +62,6 @@ public class AccountEncapDemo {
 	
 	
 	
-	
-	
-	// Go to Source > Select Setter and Getter .
 	
 	
 }

@@ -9,7 +9,7 @@ public class AccessModifier {
 		System.out.println(demo.a);
 		
 		demo.m1();
-		
+		demo.m2();
 		demo.m3();
 		
         

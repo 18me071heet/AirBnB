@@ -11,7 +11,7 @@ public class DoWhileDemo {
 			
 			if(i%2==0) {
 				
-				System.out.println("Even number is "+i);
+			System.out.println("Even number is " + i);
 				
 							}
 			i++;

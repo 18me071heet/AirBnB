@@ -16,8 +16,6 @@ public class BreakinWhile {
 			
 			
 			System.out.println(i);   	//You print the current value, then increment
-
-
 			i++;
 		}
 

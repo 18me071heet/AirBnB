@@ -10,7 +10,7 @@ public class ContinueinDoWhile {
 			
 			if(i%2==0) {
 				
-				i++;
+				i++;                            // User i++ before continue to avoid going to infinite loop
 				continue;
 			}
 			
