@@ -3,11 +3,11 @@
 <suite name="Suite">
 
 
-<listeners>
+    <listeners>
 
-<listener class-name="utlility_AB.ExtentReport_AB"></listener>
+    <listener class-name="utlility_AB.ExtentReport_AB"></listener>
 
-</listeners>
+     </listeners>
 
 
 
@@ -41,6 +41,7 @@
     <!--  <class name="TC_AB.Tc_AddReview">-->
     <class name="TC_AB.Tc_SearchingBand"></class>
       <class name="TC_AB.Tc_contactUs"></class>
+      <class name="Tc_AB.Tc_EditProfile"></class>
       
     </classes>
     
