@@ -13,23 +13,33 @@ public class ExceptionsDemo {
 		int number = sc.nextInt();
 		
 		
-		int total = 100/number;                                        // Arithmatic Exception while entering 0
+		int total = 100/number;                                        // Arithmetic Exception while entering 0
 
 		System.out.println("The pogram completed :"+total);
 		
 		
-	   int a[] = new int[4];
-	  
-	   System.out.println("Enter Position:");
-	   int pos = sc.nextInt();
+	    int a[] = new int[4];
+	   
+	    System.out.println("Enter Position:");
+	    int pos = sc.nextInt();
 	   
 	   
-	   System.out.println("Enter Value:");
-	   int value = sc.nextInt();
+	    System.out.println("Enter Value:");
+	    int value = sc.nextInt();
 	   
-	   a[pos]=value;
+	    a[pos]=value;
+	    
+	    System.out.println(a[pos]);                                    // Array Index out of Bound Exception
 	   
-	   System.out.println(a[pos]);
+	   
+	  // String s = "Welcome";                                         // Number Format Exception
+	   
+	  // int num = Integer.parseInt(s);
+	  // System.out.println(num);
+	   
+	   
+	   String s2=null;                                               // Null Pointer Exception 
+	   System.out.println(s2.length());
 		
 	}
 
