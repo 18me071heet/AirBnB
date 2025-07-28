@@ -6,12 +6,12 @@ import baseClass.BaseClassAB;
 import pageObject.EditProfile;
 import pageObject.LogInAB;
 
-             public class Tc_EditProfile extends BaseClassAB {
+               public class Tc_EditProfile extends BaseClassAB {
  
 	           void threadTime() throws InterruptedException {
 	        	   
 	        	   Thread.sleep(3000);
-	           }
+	            }
 	   
 	            @Test(priority=1,groups= {"Smoke","Functional"})
 	            void editProfile() throws InterruptedException {
@@ -19,7 +19,6 @@ import pageObject.LogInAB;
 	            LogInAB login = new LogInAB(driver);
 		
 				logger.info("Tc-01 --> Verify user is able to enter email ");
-				
 				threadTime();
 				login.emailField(p.getProperty("email"));
 				

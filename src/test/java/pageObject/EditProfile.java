@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 public class EditProfile {
 
 	
-public WebDriver driver;
+    public WebDriver driver;
 	
 	public EditProfile(WebDriver driver) {
 		
