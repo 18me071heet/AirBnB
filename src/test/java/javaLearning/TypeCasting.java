@@ -10,12 +10,12 @@ public class TypeCasting {
 		
 		System.out.println(d);
 		
+		
 		double d2 =35.56;
 		
 		// int n2 = d2; // Auto Data Conversion not possible from Double --> Int .
-		
-		
-		int n2 = (int)d2;              // Manually Data Coversion - Type Casting
+
+     	int n2 = (int)d2;              // Manually Data Coversion - Type Casting
 		System.out.println(n2);
 		
 		float f1 = 12F;

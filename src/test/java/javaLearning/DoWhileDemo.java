@@ -14,6 +14,8 @@ public class DoWhileDemo {
 			System.out.println("Even number is " + i);
 				
 							}
+			
+			
 			i++;
 
 		} while(i<=10);

@@ -1,7 +1,7 @@
 package javaLearning;
 
 
-  abstract class Company{
+  abstract class Company {
 	
 	String company = "Tech"; 
 	

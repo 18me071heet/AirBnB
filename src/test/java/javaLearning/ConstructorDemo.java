@@ -4,7 +4,7 @@ public class ConstructorDemo {
 
 	int x,y;
 	
-	ConstructorDemo(){  // Default Constructor
+	ConstructorDemo() {  // Default Constructor
 		
 		x=10;
 		y=20;
