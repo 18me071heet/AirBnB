@@ -8,6 +8,7 @@ package javaLearning;
 	return 10;
 	
 	}
+	
    }
 
    class First extends School{

@@ -27,6 +27,7 @@ public class TryCatchDemo {
 	    int arr[]= {1,2,3,4};
 	    
 	    try {
+	    	
 	        System.out.println(arr[3]);                   // Statement that may throw any ArrayIndexOutOfBounds exception
 
 	    }

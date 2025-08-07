@@ -1,13 +1,14 @@
 package javaLearning;
 
 
-class Shape {
+   class Shape {
 	
 	static void a1(int g) {
 		
 		System.out.println(g);
 	}
-}
+	
+   }
 
 class Triangle extends Shape{
 	

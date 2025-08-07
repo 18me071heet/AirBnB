@@ -1,7 +1,7 @@
 package javaLearning;
 
 
-abstract class Animal {
+   abstract class Animal {
 	
 	abstract void eat() ;        // Abstract Method ( Without body / implementation )
 	
@@ -14,7 +14,7 @@ abstract class Animal {
 	
 }
 
-class Dog extends Animal {                  // Extend Abstract class to another class
+    class Dog extends Animal {                  // Extend Abstract class to another class
 	
 	void eat(){
 		
@@ -26,9 +26,9 @@ class Dog extends Animal {                  // Extend Abstract class to another 
 		System.out.println("Normal");
 	}
 
-}
+ }
 
-public class AbstractDemo {
+    public class AbstractDemo {
 
 	public static void main(String[] args) {
 

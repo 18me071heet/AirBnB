@@ -23,7 +23,7 @@ public class TypeCasting {
 		System.out.println(x);
 		
 		int g =10;
-		float ff=(float)g;
+		float ff=g;
 		System.out.println(ff);
 		                            
 		                                 // Up Casting ( low to higher conversion )
