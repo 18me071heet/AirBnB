@@ -2,18 +2,20 @@ package javaLearning;
 
 
 
-// Single Inheritance - Single Parent and Single Child
+    // Single Inheritance - Single Parent and Single Child
 
-class A {
+     class A {
 	
-	int x=20;
-	void show() {
+	 int x=20;
+	 
+	 void show() {
 		
 		System.out.println(x);
 	}
-}
+	
+   }
 
-class B extends A{
+    class B extends A {
 	
 	int y=50;
 	
@@ -24,9 +26,9 @@ class B extends A{
 }
 
 
-// MultiLevel Inheritance  -- Chaining 
+    // MultiLevel Inheritance  -- Chaining 
 
-  class C extends B{
+  class C extends B {
 	
 	int z=70;
 	

@@ -28,12 +28,16 @@ public class StaticMethodDemo {
 	public static void main(String[] args) {
 		
 		System.out.println(a);    // We can achieve static variable directly .
-		StaticMethodDemo.m1();    // We can achieve static method stuff without creation of Object .
+		
+		m1(); // Can Access static stuff directly .
+		
+		StaticMethodDemo.m1();    // We can achieve static method stuff without creation of Object also by Classname.methodname 
 		
 		StaticMethodDemo demo = new StaticMethodDemo();   // We can achieve non static method stuff by creating an Object .
-		System.out.println(demo.b);   // We can achieve non static variable by creating an Object .
-		demo.m2();
 		
+		System.out.println(demo.b);   // We can achieve non static variable only by creating an Object .
+		
+		demo.m2(); 
 		demo.m3();
 		
 	}

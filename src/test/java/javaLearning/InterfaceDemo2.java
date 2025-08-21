@@ -2,7 +2,7 @@ package javaLearning;
 
                                 // Interface contains Abstract , Default and Static Method
 
-interface Vehicle {
+    interface Vehicle {
 	
 	void fuel();                                       // Abstract Method
 	

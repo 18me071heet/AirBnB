@@ -6,7 +6,7 @@ public class ParaConstructorDemo {
 	String name;
 	int age;
 	
-	ParaConstructorDemo(String n , int a){
+	ParaConstructorDemo(String n , int a) {
 		
 		name=n;
 		age=a;

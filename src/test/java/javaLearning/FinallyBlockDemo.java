@@ -13,7 +13,6 @@ public class FinallyBlockDemo {
 		
 		int number = sc.nextInt();
 		
-		Thread.sleep(2000);
 		
 		try {
 			
@@ -22,7 +21,7 @@ public class FinallyBlockDemo {
 		
 		catch( ArithmeticException e) {
 			
-			System.out.println("Invalid Data Provided");
+			System.out.println("Invalid Data Provided");         // To handle the exception
 			
 		}
 		

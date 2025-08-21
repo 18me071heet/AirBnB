@@ -17,7 +17,8 @@ public class ThisKeywor {
 		System.out.println("Age: "+ a);
 	}
 	
-	void show(ThisKeywor obj) {
+	void show(ThisKeywor obj) {   // Obj refers to this class variables and methods
+		
 		
 		System.out.println("Name: "+ obj.name + "Age: "+ obj.age);
 		
@@ -27,7 +28,7 @@ public class ThisKeywor {
 		
 		show(name);
 		show(age);
-		show(this);
+		show(this); // Reference to the current object ( i.e demo )
 	}
 	
 	public static void main(String[] args) {

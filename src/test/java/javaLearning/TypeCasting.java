@@ -46,11 +46,15 @@ public class TypeCasting {
 		
 		long l1= 445566632;
 		
-		short s3 = (short)l1;
+		short s3 = (short)l1;     // Down casting 
 		System.out.println(s3);
 		
-		byte b4 =(byte)l1;
+		byte b4 =(byte)l1;        // Down casting 
 		System.out.println(b4);
+		
+		char cc = 'A';
+		short s =(short)cc;
+		int i = cc;
 		
 		
 		

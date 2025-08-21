@@ -24,14 +24,11 @@ public class HashMapDemo {
 		map.remove(100);
 		
 		System.out.println("After removing pair:"+map);
-		
-		// Access value of the key
-		
-		System.out.println(map.get(102));
+		System.out.println(map.get(102));  // Accessing the value of key
 		
 		// Get all keys
 		
-		System.out.println(map.keySet());
+		System.out.println(map.keySet()); 
 		
 		// Get all value
 		

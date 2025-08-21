@@ -8,7 +8,7 @@ public class ContinueinDoWhile {
 		
 		do {
 			
-			if(i%2==0) {
+			if(i%2!=0) {
 				
 				i++;                            // User i++ before continue to avoid going to infinite loop
 				continue;
@@ -17,7 +17,7 @@ public class ContinueinDoWhile {
 			System.out.println(i);
 			i++;
 			
-		} while(i<=20) ;
+		} while(i<=22) ;
 	}
 
 }

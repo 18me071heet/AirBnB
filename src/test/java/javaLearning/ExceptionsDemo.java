@@ -14,7 +14,6 @@ public class ExceptionsDemo {
 		
 		
 		int total = 100/number;                                        // Arithmetic Exception while entering 0
-
 		System.out.println("The pogram completed :"+total);
 		
 		

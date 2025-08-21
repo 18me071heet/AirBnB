@@ -6,7 +6,7 @@ public class ThisKeywordDemo {
 	
 	ThisKeywordDemo(int x,int y){
 		
-		this.x=x;
+		this.x=x;    // Use this keyword when local and class variable name is same 
 		this.y=y;
 		
 	}
@@ -16,7 +16,7 @@ public class ThisKeywordDemo {
 		System.out.println(x+y);
 	}
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) {   // If we declare inside the main method then it will be local variable
 		
 		ThisKeywordDemo demo = new ThisKeywordDemo(10,20);
 		demo.display();

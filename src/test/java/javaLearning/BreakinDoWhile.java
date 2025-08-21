@@ -11,6 +11,7 @@ public class BreakinDoWhile {
 			
 			if(i==12) {
 				
+				i++;
 				break;
 			}
 			

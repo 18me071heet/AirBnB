@@ -34,11 +34,11 @@ public class HashSetDemo {
 		
 		// Access specific element --> Not possible
 		
-		// Converting Hashset -> ArrayList
+		// You can access by Converting Hashset -> ArrayList
 		
 		ArrayList list = new ArrayList(set);
-		System.out.println(list);
-		System.out.println(list.get(1));            // We can get element by using arraylist converting concept
+		System.out.println("After coverting set to the arraylsit:"+list);
+		System.out.println("Access element by using arraylist concept:"+list.get(1));            // We can get element by using arraylist converting concept
 		
 		
 		// Read all elments using enhanced loop concept
@@ -47,6 +47,9 @@ public class HashSetDemo {
 			
 			System.out.println(x);
 		}
+		
+		// Read all elements using iterator concept 
+		
 		
 		Iterator it = set.iterator();
 		
@@ -64,7 +67,7 @@ public class HashSetDemo {
 		
 		set.clear();
 		
-		System.out.println(set);
+		System.out.println("After clearing all elements from the set:"+set);
 		
 		
 		

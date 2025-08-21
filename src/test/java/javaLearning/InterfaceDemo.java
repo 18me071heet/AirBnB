@@ -29,7 +29,7 @@ public class InterfaceDemo {
 
 	public static void main(String[] args) {
 
-		Birds bird = new Pigeon();
+		Birds bird = new Pigeon();    // We can't create object for interface we can ref variable for interface class
 		bird.eat();
 		bird.sound();
 

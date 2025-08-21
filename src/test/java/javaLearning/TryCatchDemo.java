@@ -15,12 +15,12 @@ public class TryCatchDemo {
 	    try {
 	    	
 	    	int total = 10/number ;                         // Statement that may throw any Arithmetic exception
-	    	System.out.println(total);
+	    	System.out.println("10 divide by your number is :"+ total);
 	    }
 	    
 	    catch(ArithmeticException e) {
 	    	
-	    	System.out.println("Data not proper");              // Statement that handle the exception
+	    	System.out.println("Your number is can't divide by 10");              // Statement that handle the exception
 	    }
 	    
 	    
@@ -28,7 +28,7 @@ public class TryCatchDemo {
 	    
 	    try {
 	    	
-	        System.out.println(arr[3]);                   // Statement that may throw any ArrayIndexOutOfBounds exception
+	        System.out.println(arr[5]);                   // Statement that may throw any ArrayIndexOutOfBounds exception
 
 	    }
 	    catch(ArrayIndexOutOfBoundsException e) {
