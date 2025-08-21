@@ -45,6 +45,9 @@ package javaLearning;
 	    Company comp2 = new TeamLead();      // Create object reference for Abstract class .
 	    comp2.showDetails();
 	    
+	    Emp emp = new Emp();
+	    System.out.println(emp.getSalary());
+	    
 	    TeamLead comp3 = new TeamLead();         
 	    System.out.println(comp3.getSalary());
 	    

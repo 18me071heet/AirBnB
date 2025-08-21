@@ -23,24 +23,24 @@ public class ArrayListDemo {
 		
 		list.remove(2);             // 2 is index of element
 		
-	//	System.out.println("After removing the value:"+list);
+	   System.out.println("After removing the value:"+list);
 		
 		// Insert value between middle of the list
 		
 		list.add(3, "Yepp");
 		
-	//	System.out.println("After inserting value in the middle of the list:"+list);
+	   System.out.println("After inserting value in the middle of the list:"+list);
 		
 		
 		// Updating Modifying the list value 
 		
 	    list.set(0, "New First");
 	
-	//   System.out.println("After changing the first index value:"+list);
+        System.out.println("After changing the first index value:"+list);
 		
 		// Access specific element from the list 
 	   
-	 //   System.out.println(list.get(2));
+	   //   System.out.println(list.get(2));
 	   
 	  
 	                            // Read all the elements from the array list using normal for loop
@@ -105,6 +105,28 @@ public class ArrayListDemo {
 		//System.out.println(myList);
 		
 		//System.out.println("Size of the array list:"+myList.size());
+		
+		
+		
+		// Remove specific element from the arraylist .
+		
+		ArrayList<String> stringList = new ArrayList<String>();
+		
+		stringList.add("India");
+		stringList.add("Australia");
+		stringList.add("New Zealand");
+		stringList.add("South Africa");
+		
+		stringList.remove(1); // Remove by index
+		
+		System.out.println("After removing using index:"+stringList);
+		
+	    stringList.remove("South Africa"); // Remove by using value 
+	    
+	    System.out.println("After removing using value:"+stringList);
+		
+		
+		
 		
 	
 		

@@ -9,6 +9,7 @@ public class Employee {
 	String job;
 
 	// Methods
+	
 	void display() {
 		
 		System.out.println(id);

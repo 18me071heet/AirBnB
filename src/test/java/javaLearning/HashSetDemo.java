@@ -17,8 +17,9 @@ public class HashSetDemo {
 		set.add('A');
 		set.add(10);
 		set.add(null);
+		set.add(null);
 		
-		System.out.println(set);
+		System.out.println("List of Set:"+set);
 		
 		// removing specific value
 		

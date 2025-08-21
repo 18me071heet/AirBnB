@@ -11,8 +11,7 @@ public class BreakinDoWhile {
 			
 			if(i==12) {
 				
-				i++;
-				break;
+		     break;
 			}
 			
 			System.out.println(i);

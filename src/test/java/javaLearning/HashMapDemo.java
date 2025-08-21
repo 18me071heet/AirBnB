@@ -16,7 +16,7 @@ public class HashMapDemo {
 		
 		System.out.println(map);
 		
-		System.out.println(map.size());   // Size 
+		System.out.println("Size of map:"+map.size());   // Size 
 		
 		
 		// Remove pair 
