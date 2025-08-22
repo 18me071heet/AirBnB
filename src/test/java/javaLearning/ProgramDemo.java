@@ -133,7 +133,7 @@ public class ProgramDemo {
 
 		//% 2 → Checks if a digit is even or odd.
 
-		// 10 → Removes the last digit so we can process the next one.
+		// / 10 → Removes the last digit so we can process the next one.
 		
 		
 	*/
@@ -227,10 +227,63 @@ public class ProgramDemo {
 		}
 	
 		System.out.println(factorial);
+		
+		
+	                                     	// Reversed string
+		
+		
+		
+		String s="Test";
+		String rev= "";
+		
+		for(int i=s.length()-1;i>=0;i--) {
+			
+			rev = rev+s.charAt(i);
+		}
+			
+		System.out.println("Original String:"+s);
+		
+		System.out.println("Reversed String:"+rev);
+		
+	
+		
+		int numbers =30;
+		boolean isPrime=false;
+		
+		if(number<=1){
+			
+			isPrime=true;
+			
+		}
+		
+		else {
+			
+			for(int i=2;i<=numbers/2;i++) {
+				
+				if(numbers%i==0) {
+					
+					isPrime=false;
+					break;
+				}
+			}
+				
+		}
+		
+		if(isPrime) {
+			
+			System.out.println("The number is prime:"+numbers);
+		}
+		
+		else {
+			
+			System.out.println("The number is not prime:"+numbers);
+		}
+		
 	
 	    }
-		
-		
+	
+	
+	
 		
 	}
 

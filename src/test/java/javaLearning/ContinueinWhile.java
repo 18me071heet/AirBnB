@@ -6,7 +6,7 @@ public class ContinueinWhile {
 	
 		int i=1;
 		
-		while(i<=9) {
+	/*	while(i<=9) {
 			
 			if(i==4) {
 				
@@ -18,7 +18,21 @@ public class ContinueinWhile {
 			System.out.println(i);
 			i++;                       // 	Normal loop progression for other values
 		} 
-
+*/
+		
+		while(i<=12) {
+			
+			if(i%2==0) {
+				
+				i++;
+				continue;
+			}
+			
+			System.out.println(i);
+			i++;
+		}
 	}
+	
+	
 
 }

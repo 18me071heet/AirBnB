@@ -12,10 +12,12 @@ public class BreakinDoWhile {
 			if(i==12) {
 				
 		     break;
+		     
 			}
 			
 			System.out.println(i);
 			i++;
+
 		
 		}while(i<=20);
 

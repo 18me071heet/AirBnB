@@ -6,8 +6,9 @@ public class DoWhileDemo {
 
 
 		int i=1;
+		int sum=0;
 		
-		do {
+	/*	do {
 			
 			if(i%2==0) {
 				
@@ -20,6 +21,25 @@ public class DoWhileDemo {
 
 		} while(i<=10);
 
-	}
+*/
+		
+	/*	do {
+			
+			System.out.println(i);
+			i--;
+			
+		}while(i>0);
+	
+	*/
+		
+		do {
+		
+			sum=sum+i;
+			i++;
+		
+	}while(i<=7);
+		
+		System.out.println(sum);
 
     }
+}
