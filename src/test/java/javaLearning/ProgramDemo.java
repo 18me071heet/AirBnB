@@ -245,7 +245,9 @@ public class ProgramDemo {
 		
 		System.out.println("Reversed String:"+rev);
 		
-	
+	 
+		                                       // Prime number 
+		
 		
 		int numbers =30;
 		boolean isPrime=false;
@@ -278,12 +280,93 @@ public class ProgramDemo {
 			
 			System.out.println("The number is not prime:"+numbers);
 		}
+		 
 		
+		                               // Count Odd and Even number
+		
+		int numberI = 56789166;
+		int odd=0;
+		int even=0;
+		
+		while(numberI>0) {
+			
+			int digit = numberI%10;
+			
+			if(digit%2==0) {
+				
+				//System.out.println("Even number:");
+				even++;
+			}
+			
+			else {
+				
+			//	System.out.println("Odd number");
+				odd++;
+			}
+			
+			numberI=numberI/10;
+		}
+		
+		System.out.println("Odd count:"+odd);
+		System.out.println("Even count:"+even);
 	
+		
+		                                 // Swapping program
+		
+		int c1=55;
+		int d1=66;
+		
+		int temp =c1;
+		c1=d1;
+		d1=temp;
+		
+		System.out.println("After swapping c:"+c1);
+		System.out.println("After swapping d:"+d1);
+		
+		int newNumber = 899;
+		int reversed=0;
+		int originalNumber = newNumber;
+		
+		while(newNumber>0) {
+			
+			int newDigit=newNumber%10;
+			reversed=reversed*10+newDigit;
+			newNumber=newNumber/10;
+			
+		}
+		
+		System.out.println("Original Number is:"+originalNumber);
+		System.out.println("Reversed Number is:"+reversed);
+		
+		if(originalNumber==reversed) {
+			
+			System.out.println("This is a palindrone number");
+		}
+		
+		else {
+			
+			System.out.println("This is not a palindrone number");
+		}
+		
+		
+		int digitss =0;
+		int count=0;
+		
+		
+		if(digitss==0) {
+			count=1;
+			
+		}
+		while(digitss!=0) {
+			
+			digitss=digitss/10;
+			count++;
+		}
+		
+		System.out.println("Count Digits:"+count);
+		
 	    }
 	
-	
-	
-		
+			
 	}
 
